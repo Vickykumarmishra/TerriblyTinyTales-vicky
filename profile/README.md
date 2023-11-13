@@ -18,7 +18,7 @@
 
 <h2>About the Project</h2>
 <p>This  is a profile screen project whose Frontend has been developed using React js  and styled with Bootstrap.</p>
-<p>Below are the components in this project</p>
+<p>Below are the components in this project(available inside src folder)</p>
 <ul>
   <li>Navbar.js</li>
   <li>Profile.js</li>
