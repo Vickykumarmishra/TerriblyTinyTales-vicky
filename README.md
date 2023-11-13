@@ -13,5 +13,5 @@
   <li>Name of the user</li>
   <li>Total no of followers and followings</li>
    <li>Total no of likes , views and hearts</li>
-   <li>All posts done by user; along with the date and no of views on post</li>
+   <li>All posts done by user; along with the date , no of views and likes on the posts</li>
 </ol>
