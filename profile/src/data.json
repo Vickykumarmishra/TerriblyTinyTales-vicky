@@ -1,0 +1,40 @@
+{
+    "name": "Mr. Anuj Gosalia",
+    "title": "Co-founder & CEO at Terribly Tiny Tales",
+    "website": "http://www.instagram.com/xyz",
+    "hearts": "26.0K",
+    "posts": "134",
+    "star":"125",
+    "like":"12",
+    "views":"57.8k",
+    "following":"245",
+    "followers":"6482",
+    
+    "latest_posts": [
+      {
+        "title": "A Changing World Order",
+        "text": "The world is changing at a feverish pace.Friends,colleagues and everyone engaged in knowledge work are beginning to sense this change. technology is advancing day by day also developing powers, emerging alliances, and digital development contribute to this landscape.By 2050 we will have flying cars and ai based workforce in manufacturing companies.The ai is emerging very fastly;lots of ai tools are coming in the market...",
+        "views": "102",
+        "image":"tiny1.jpg",
+        "view":"223",
+        "date":"10 Aug"
+        
+      },
+      {
+        "title": "India v/s Australia",
+        "text": "Think about it -this cricket series was akin to therapy.Laying our childhood trauma up top, working with it slowly and surely. Australian team is the most strongest team right now. they have depth in batting and bowling...",
+        "views": "156",
+        "image":"tiny2.jpg",
+        "view":"125",
+        "date":"11 Nov"
+      },
+      {
+        "title": "Write To Build           ",
+        "text": "writing is the first step to create:-stories,products,companies.writing is the best practice to learn any language perfectly. writing helps to express our ideas on to the paper.It helps one to express their feeling...",
+        "views": "228",
+        "image":"tiny3.jpg",
+        "view":"115",
+        "date":"15 Nov"
+      }
+    ]
+  }
