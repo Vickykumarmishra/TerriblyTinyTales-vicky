@@ -56,7 +56,7 @@ export default function Profile() {
                    
                 </div> </center> */}
                 <center><div class="card" style={{margin:'2.5rem'}} >
-  <img src={image} class="card-img-top" alt="..." style={{height:"25rem"}}/>
+  <img src={image} class="card-img-top" alt="..." style={{height:"auto"}}/>
   <div class="card-body" >
     <h5 class="card-title"><b>{title}</b>  <img src="like icon.jpeg" style={{height:"1rem",float:"right",borderRadius:"100%"}}></img></h5>
     <p class="card-text">{text}</p>
