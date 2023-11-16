@@ -28,10 +28,10 @@ export default function Profile() {
     <div class="col">
     
     
- <div style={{float:"left",marginLeft:"3rem",marginTop:"1rem" ,marginBottom:"1rem",widtH:"50%"}}> <motion.button whileHover={{scale:1.1}} class="btn btn-primary" style={{backgroundColor:"white",color:"grey",border:'0.1rem solid grey'}}><b>{data.followers}</b></motion.button>
+ <div style={{float:"left",marginLeft:"3rem",marginTop:"1rem" ,marginBottom:"1rem",widtH:"50%"}}> <motion.button whileHover={{scale:1.1}} class="btn btn-primary" style={{backgroundColor:"white",color:"grey",border:'0.1rem solid grey',boxShadow: '4px 4px 4px white'}}><b>{data.followers}</b></motion.button>
   <p style={{color:"white"}}>followers</p></div>
 
-  <div style={{float:"left",marginLeft:'3rem',marginTop:"1rem",marginBottom:'1rem'}}><motion.button  whileHover={{scale:1.1}} class="btn btn-primary" style={{backgroundColor:"white",color:"grey",border:'0.1rem solid grey'}}><b>{data.following}</b></motion.button> 
+  <div style={{float:"left",marginLeft:'3rem',marginTop:"1rem",marginBottom:'1rem'}}><motion.button  whileHover={{scale:1.1}} class="btn btn-primary" style={{backgroundColor:"white",color:"grey",border:'0.1rem solid grey',boxShadow: '4px 4px 4px white'}}><b>{data.following}</b></motion.button> 
     <p style={{color:"white"}}>following</p></div>
    
     </div>
@@ -57,7 +57,7 @@ export default function Profile() {
                    
                 </div> </center> */}
                 <center><div class="card" style={{margin:'2.5rem'}} >
-  <img src={image} class="card-img-top" alt="..." style={{height:"auto"}}/>
+  <img src={image} class="card-img-top" alt="..."  />
   <div class="card-body" >
     <h5 class="card-title"><b>{title}</b>  <motion.img src="like icon.jpeg" whileHover={{scale:1.5}} style={{height:"1rem",float:"right",borderRadius:"100%"}}></motion.img></h5>
     <p class="card-text">{text}</p>
