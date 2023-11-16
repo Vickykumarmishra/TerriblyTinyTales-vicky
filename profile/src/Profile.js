@@ -41,8 +41,8 @@ export default function Profile() {
 
 </div>
  
-  <p ><h3 style={{color:'skyblue',float:"left",marginLeft:"1rem",marginBottom:"2rem" ,borderTop:"0.1rem solid white",borderRight:"0.1rem solid white",padding:"0.3rem"}}>{data.posts} Posts </h3></p><br></br><br></br>
-   <p style={{borderBottom:"0.1rem solid white",marginLeft:"11.9%",marginRight:'5%'}}></p>
+  <p><h3 style={{color:'skyblue',float:"left", width:"auto" ,borderTop:"0.1rem solid white",borderRight:"0.1rem solid white",padding:"0.4rem"}}>{data.posts} Posts </h3><h3 style={{borderBottom:"0.1rem solid white",padding:"0.4rem", color:"black",float:"left",width:"40%"}}>hi</h3></p><br></br><br></br>
+   {/* <p style={{borderBottom:"0.1rem solid white",marginLeft:"auto",marginRight:'5%'}}></p> */}
         {
             data.latest_posts.map((soln)=>{
               //destructuring the array
